@@ -4,9 +4,7 @@
 
 
 ### 👤 &nbsp;About Me ###
-- 💼 Looking for part time job.
-- 🌱 I’m currently praticipating in Build For Good hackthon on my new app Food By Mood.
-- 👯 I’m looking to collaborate with other content creators.
+- 🌱 SW at AppsFlyer.
 
 ### 🛠 &nbsp;Tech Stack ###
 - Languages &nbsp;
